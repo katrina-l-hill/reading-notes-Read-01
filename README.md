@@ -1,6 +1,6 @@
 # Read 01 – Learning Markdown
 
-Skills for Sandbox Learning:
+Skills for Sandbox Learning: <br>
 •	Generating and selecting ideas: 
 - You have to figure out what do you want to learn now
 - You also have to figure out what are you trying to learn now
@@ -18,7 +18,7 @@ Skills for Sandbox Learning:
 - There’s nothing shameful about finding help with the various resources available to you.
  - The only dumb question is the one not asked
  
-What is Mindset?
+What is Mindset? <br>
 •	Mindset: 
 - It is the self-perception people have about themselves. Essentially, it’s the way you feel about yourself and your abilities.
 •	Fixed mindset: 
@@ -27,15 +27,15 @@ What is Mindset?
 •	Growth mindset: 
 - It means believing that people's basic abilities can be developed through dedication and hard work.
  
-Why Markdown?
+Why Markdown? <br>
 •	Markdown is lightweight markup language for generating HTML files.
 •	It is not a WYSIWYG (what you see is what you get) editor like MS Word or Google Docs. When you write in Markdown, you're not seeing the end product.
 •	It uses textual symbols to indicate the structure of the page
 
-How do we Markdown (md)?
+How do we Markdown (md)? <br>
 •	GitHub uses Markdown pretty much everywhere:
   - Top level README.md files are auto-rendered
   - Any other .md files
-  - Issues, comments, code reviews, etc…
+  - Issues, comments, code reviews, etc… <br>
 •	GitHub Pages will convert your Markdown, apply a theme, and publish it!
  
