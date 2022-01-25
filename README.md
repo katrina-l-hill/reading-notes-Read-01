@@ -4,7 +4,7 @@ Skills for Sandbox Learning:
 •	Generating and selecting ideas: 
 - You have to figure out what do you want to learn now
 - You also have to figure out what are you trying to learn now
-   - By identifying the minimum viable tasks, you can put on your plate, you don’t overload yourself and can add more tasks on later.
+   - By identifying the minimum viable tasks, you can put on your plate, you don’t overload yourself and can add more tasks on later. <br>
 •	Planning your learning: 
 - Managing the scope of what you’re learning is a good way to plan for your immediate learning needs
  - Finding resources that will help you complete your tasks and achieve your goals can set you up for success
